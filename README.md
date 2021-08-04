@@ -22,7 +22,8 @@ In the midst, John evolves to gain his true identity... (Play our game **till th
 
 [Link to game](https://patrialyx.itch.io/hacked)
 
-**Screenshots of game:**
+**Screenshots of game:**  
+
 ![alt text](https://github.com/jovanhuang/Cyber-Security-Game-Jam-2021/blob/main/image1.png)  
 
 ![alt text](https://github.com/jovanhuang/Cyber-Security-Game-Jam-2021/blob/main/image2.png)  
