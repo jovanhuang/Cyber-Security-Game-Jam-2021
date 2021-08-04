@@ -18,11 +18,13 @@ In this quest, unlucky John seeks to
 
 In the midst, John evolves to gain his true identity... (Play our game **till the end** to find out what his true identity is!)
 
+---  
+
 **Our Linkedin:** [Patria Lim Yun Xuan](https://www.linkedin.com/in/patrialim/), [Jovan Huang Tian Chun](https://www.linkedin.com/in/jovanhuang/)  
 
-[Link to game](https://patrialyx.itch.io/hacked)
+---  
 
-**Screenshots of game:**  
+## Screenshots of game:  
 
 ![alt text](https://github.com/jovanhuang/Cyber-Security-Game-Jam-2021/blob/main/image1.png)  
 
@@ -33,3 +35,6 @@ In the midst, John evolves to gain his true identity... (Play our game **till th
 ![alt text](https://github.com/jovanhuang/Cyber-Security-Game-Jam-2021/blob/main/image4.png)  
 
 ![alt text](https://github.com/jovanhuang/Cyber-Security-Game-Jam-2021/blob/main/image5.png)  
+
+## Check out our game:
+[Play hacked!](https://patrialyx.itch.io/hacked)
