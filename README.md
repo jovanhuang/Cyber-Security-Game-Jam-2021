@@ -20,7 +20,7 @@ In the midst, John evolves to gain his true identity... (Play our game **till th
 
 ---  
 
-**Check out our LinkedIn:** [Patria Lim Yun Xuan](https://www.linkedin.com/in/patrialim/), [Jovan Huang Tian Chun](https://www.linkedin.com/in/jovanhuang/)  
+**Team members:** [Patria Lim Yun Xuan](https://www.linkedin.com/in/patrialim/), [Jovan Huang Tian Chun](https://www.linkedin.com/in/jovanhuang/)  
 
 ---  
 
@@ -36,5 +36,5 @@ In the midst, John evolves to gain his true identity... (Play our game **till th
 
 ![alt text](https://github.com/jovanhuang/Cyber-Security-Game-Jam-2021/blob/main/image5.png)  
 
-## Check out our game here!
+## Game Link
 [Play hacked!](https://patrialyx.itch.io/hacked)
