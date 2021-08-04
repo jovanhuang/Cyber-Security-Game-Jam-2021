@@ -8,7 +8,6 @@ This repository contains the source code to the game, "Hacked".
 ## What is this game about?
 Passwords are the first line of defense against malicious hackers gaining access to your personal data. Despite knowing what makes a strong password, John, like 6.85 million other people in the world every day, still falls victim to password attacks.
 
-## Summary of story
 In this quest, unlucky John seeks to
 
 * acquire the knowledge to identify email phishing
@@ -17,6 +16,6 @@ In this quest, unlucky John seeks to
 
 In the midst, John evolves to gain his true identity... (Play our game **till the end** to find out what his true identity is!)
 
-**Game creators:** Patria Lim Yun Xuan, Jovan Huang Tian Chun  
+**Game creators' Linkedin:** [Patria Lim Yun Xuan](https://www.linkedin.com/in/patrialim/), [Jovan Huang Tian Chun](https://www.linkedin.com/in/jovanhuang/)  
 
-[Link to game:](https://patrialyx.itch.io/hacked)
+[Link to game](https://patrialyx.itch.io/hacked)
